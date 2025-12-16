@@ -2,3 +2,7 @@ Django>=4.2,<5.1
 asgiref>=3.7
 sqlparse>=0.4
 tzdata; platform_system == "Windows"
+
+Pillow>=10.0
+pytest
+black
